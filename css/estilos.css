@@ -35,3 +35,10 @@ body {
 #post {
   padding: 1rem;
 }
+
+#footer {
+  background: grey;
+  text-align: center;
+  color: white;
+  padding: 0.5rem;
+}
